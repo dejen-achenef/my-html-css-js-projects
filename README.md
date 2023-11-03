@@ -564,7 +564,7 @@ In order to run this project you need:
 
 <li>
 <details>
-<summary>Simple Chat App</summary>
+<summary>Interactive Polling App</summary>
 <p>This is an interactive polling app that allows users to vote on a specific question. Users can vote for their preferred options and view the results in real-time. The app tracks the votes for each option and stores them in the local storage so the votes persist even after the page is refreshed.</p>
 <ul>
 <li><a href="https://tajulafreen.github.io/50Projects-HTML-CSS-JavaScript/Source-Code/InteractivePolling/">Live Demo</a></li>
@@ -596,51 +596,5 @@ In order to run this project you need:
 </li>
 
 </ol>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contribution
-
-<p>If you wish to contribute to this collection by adding your own projects or enhancing existing ones, please follow these steps:</p>
-<ul>
-<li>Fork this repository.</li>
-<li>Create a new branch `(git checkout -b feature/add-your-feature)`. </li>
-<li>Make your modifications.</li>
-<li>Commit your changes `(git commit -am 'Add new feature')`.</li>
-<li>Push to the branch `(git push origin feature/add-your-feature)`.</li>
-<li>Create a new Pull Request.</li>
-</ul>
-<p>Contributions, issues, and feature requests are welcome! Feel free to check the issues page.</p>
-
-## Credits
-
-<p>These projects were curated and developed by <a href="https://github.com/tajulafreen/">Tajul Afreen</a>
- and inspired by various online resources and tutorials. Contributions from the open-source community are welcomed and appreciated.</p>
-
-👤 **Tajul Afreen**
-
-- GitHub: [tajulafreen](https://github.com/tajulafreen)
-- LinkedIn: [tajul-afreen](https://www.linkedin.com/in/tajul-afreen/)
-- Wellfound: [tajul-afreen](https://wellfound.com/u/tajul-afreen)
-- Twitter: [tajulafreen](https://www.twitter.com/tajulafreen)
-
-👤 **Olanike Olatunji**
-
-- GitHub: [olanikegloria](https://github.com/olanikegloria)
-- LinkedIn: [olanikegloria](https://www.linkedin.com/in/olani/)
-
-👤 **amiii123malviya**
-
-- GitHub: [amiii123malviya](https://github.com/amiii123malvi)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you liked this project, give it a ⭐️ and kindly send to me an e-mail expressing it, it would make our day and fuel our motivation.
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
